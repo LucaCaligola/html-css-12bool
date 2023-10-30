@@ -3,7 +3,7 @@
     background-color:#006CFA;
     color: white;
     padding:10px;
-    min-height: 50px;
+    min-height: 40px;
     border: 1px solid white;
     display: flex;
     justify-content: center;
@@ -13,8 +13,8 @@
 .green {
     background-color: #01E165;
     height: 100%;
-    margin: 3px 1px;
-}
+    margin: 1px;
+    padding: 2px;
   
 .green p {
     font-size: 12px;
