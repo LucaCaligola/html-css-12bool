@@ -1,0 +1,32 @@
+[class*="col-"] {
+    flex: 0 0 auto;
+    background-color:#006CFA;
+    color: white;
+    padding:10px;
+    min-height: 50px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.green {
+    background-color: #01E165;
+    height: 100%;
+    margin: 3px 1px;
+}
+  
+.green p {
+    font-size: 12px;
+}
+
+.flex {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+h2 {
+    margin: 8px 0px;
+}
